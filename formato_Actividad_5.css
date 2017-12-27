@@ -1,0 +1,31 @@
+h1{
+
+color: #20B2AA;
+
+
+}
+
+h2{
+
+  color: #20B2AA;
+
+}
+
+h3{
+
+color: #20B2AA;
+
+
+}
+
+body{
+
+  background-color:#FFD700;
+}
+
+img{
+
+border: #20B2AA 5px solid;
+border-image-source: url ("yo.png");
+
+}
